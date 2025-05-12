@@ -52,6 +52,7 @@ coverage/
 *.key
 *.pem
 *.p12
+*.pub
 config.json
 secrets.txt
 
